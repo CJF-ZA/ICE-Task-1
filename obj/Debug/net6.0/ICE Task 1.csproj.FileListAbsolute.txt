@@ -28,3 +28,18 @@ E:\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE Task 1\obj\Debug\net6.0\
 E:\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE Task 1\obj\Debug\net6.0\ICE Task 1.pdb
 E:\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE Task 1\obj\Debug\net6.0\ICE Task 1.genruntimeconfig.cache
 E:\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE Task 1\obj\Debug\net6.0\ref\ICE Task 1.dll
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\bin\Debug\net6.0\ICE Task 1.exe
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\bin\Debug\net6.0\ICE Task 1.deps.json
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\bin\Debug\net6.0\ICE Task 1.runtimeconfig.json
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\bin\Debug\net6.0\ICE Task 1.dll
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\bin\Debug\net6.0\ICE Task 1.pdb
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.csproj.AssemblyReference.cache
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.AssemblyInfoInputs.cache
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.AssemblyInfo.cs
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.csproj.CoreCompileInputs.cache
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.dll
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\refint\ICE Task 1.dll
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.pdb
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ICE Task 1.genruntimeconfig.cache
+C:\Users\cjf15\OneDrive\IIE MSA Stuff\Year 2\Sem 1\PROG6221\ICE\ICE-Task-1\obj\Debug\net6.0\ref\ICE Task 1.dll

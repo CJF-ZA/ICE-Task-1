@@ -5,6 +5,7 @@
 */
 class ScriptDistrabutor
 {
+    //variable declaration with lambda function
     public int numOfScripts { get => _numOfScripts; set => _numOfScripts = value > 0 ? value : 0; }
     private int _numOfScripts;
     public int numOfQ { get => _numOfQ; set => _numOfQ = (value >= 1 && value <= 10) ? value : 0; }
@@ -15,8 +16,10 @@ class ScriptDistrabutor
     public int numOfLec { get => _numOfLec; set => _numOfLec = value > 0 ? value : 0; }
     private int _numOfLec;
     
+    //method to calculate and display report
     public void DisplayReport()
     {
+        //calulate number of scripts that needs to be marked
         int numPerLec = _numOfScripts / _numOfLec;
         int extraScript = _numOfScripts % _numOfLec;
         Console.WriteLine($"There are {numPerLec} scripts per lecturers");
@@ -24,6 +27,8 @@ class ScriptDistrabutor
         {
             Console.WriteLine($"There are {extraScript} scripts extra for the last lecturer");
         }
+
+        //calculate time needed to mark scripts
         double hours = CalcTime(numPerLec);
         hours += CalcTime(extraScript);
         double minutes = hours * 60;
@@ -31,12 +36,12 @@ class ScriptDistrabutor
         minutes = minutes % 60;
         seconds = seconds % 60;
         if (seconds > 30)
-        {
             minutes++;
-        }
         Console.WriteLine($"The time needed to mark all the scripts is {Math.Floor(hours)} hours {Math.Floor(minutes)} minutes");
         Console.ReadLine();
     }
+
+    //method for calculating hours needed
     private double CalcTime(int ns)
     {
         int numOfTicks = ns * _numOfQ * total;
@@ -46,6 +51,7 @@ class ScriptDistrabutor
     }
 }
 
+//main class
 class ScriptDistrabutorApp
 {
     public static void Main(string[] args)
@@ -54,6 +60,8 @@ class ScriptDistrabutorApp
         Console.WriteLine("****************************************************");
         Console.WriteLine("Thank you for using the Script Distrabutor");
         Console.WriteLine("****************************************************");
+
+        //basic input validation loop
         while (sd.numOfScripts == 0)
         {
             Console.WriteLine("Please enter the number of scripts (Can't be 0 or negative)");
@@ -79,6 +87,7 @@ class ScriptDistrabutorApp
             Console.WriteLine("Please enter the number of lecturers marking the scripts (Can't be 0 or negative)");
             sd.numOfLec = Convert.ToInt32(Console.ReadLine());
         }
+        //calls method to calculate and display all data
         sd.DisplayReport();
     }
 }
